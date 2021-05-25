@@ -1,0 +1,37 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas{
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 10px;
+  border: 2px solid black;
+}
+body {
+
+  align-items: center;
+}
+h1 {
+  text-align: center;
+
+}
+p {
+  text-align:center;
+ 
+}
+h2 {
+  text-align: center;
+  color: yellow;
+  font: bold;
+
+}
+h3 {
+  text-align: center;
+  color: yellow;
+  font: bold;
+
+}
+
+
+
